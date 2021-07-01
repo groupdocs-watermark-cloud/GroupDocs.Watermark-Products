@@ -22,15 +22,15 @@ apis:
       
       api_product:
         # api_product loop
-        - link: "https://products.groupdocs.com/watermark/curl/"
+        - link: "/watermark/curl/"
           img_alt: "GroupDocs.Watermark Cloud for cURL"
           image: "/sdk/272x272/groupdocs_watermark-for-curl.webp"
           product: "GroupDocs.Watermark"
-          platform: "Cloud for cURL"
+          platform: "cURL"
           content: "Use cURL commands to send requests to GroupDocs.Watermark REST API and manage watermarks inside documents in the cloud, on any language or platform."
 
         # api_product loop
-        - link: "https://products.groupdocs.com/watermark/net/"
+        - link: "/watermark/net/"
           img_alt: "GroupDocs.Watermark Cloud SDK for .NET"
           image: "/sdk/272x272/groupdocs_watermark-for-net.webp"
           product: "GroupDocs.Watermark"
@@ -38,7 +38,7 @@ apis:
           content: ".NET watermarks management SDK to add, modify, search and remove watermark types from supported documents and image formats."
 
           # api_product loop
-        - link: "https://products.groupdocs.com/watermark/java/"
+        - link: "/watermark/java/"
           img_alt: "GroupDocs.Watermark Cloud SDK for Java"
           image: "/sdk/272x272/groupdocs_watermark-for-java.webp"
           product: "GroupDocs.Watermark"

@@ -69,15 +69,35 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          GroupDocs.Watermark Cloud SDK for .NET only requires .NET Framework.
+          An overview of the main features supported by GroupDocs.Watermark Cloud.
 
+        left:
+          enable: true
+          icon: "fab fa-html5"
+          title: "Overview"
+          content: |
+            * Watermarks management 
+            * Manipulation solution
+            * Add text
+            * Image watermarks
+            * Search watermark in documents
 
 
         right:
           enable: true
-          icon: "fab fa-cubes"
-          title: ".NET Framework"
+          icon: "fab fa-html5"
+          title: "Implementation"
           content: |
+            * Manage watermarks properties
+            * Replace added watermarks
+            * Remove watermarks documents
+            * Search by Image Comparison
+            * Work with Headers & Footers
+            * Work with Background Images
+            * Work with Attachments
+            * Rasterize Pages
+            * Apply Editing Restrictions
+
             
       
       ## TAB TWO ##

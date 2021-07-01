@@ -65,7 +65,7 @@ overview:
       ## TAB ONE ##
       tab_one:
         description: |
-          An overview of the main features supported by GroupDocs.Watermark Cloud for cURL.
+          An overview of the main features supported by GroupDocs.Watermark Cloud.
 
         left:
           enable: true
@@ -84,9 +84,9 @@ overview:
           icon: "fab fa-html5"
           title: "Implementation"
           content: |
-            * Manage watermarks properties with ease
-            * Replace already added watermarks
-            * Remove watermarks from documents
+            * Manage watermarks properties
+            * Replace added watermarks
+            * Remove watermarks documents
             * Search by Image Comparison
             * Work with Headers & Footers
             * Work with Background Images
@@ -129,7 +129,7 @@ overview:
       ## TAB THREE ##
       tab_three:
         description: |
-          GroupDocs.Watermark Cloud for cURL - some of the supported languages and platforms.
+          GroupDocs.Watermark Cloud - some of the supported languages and platforms.
         
         left:
           enable: true
