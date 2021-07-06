@@ -91,7 +91,7 @@ apis:
         # api_product loop
         - link: "https://products.groupdocs.app/watermark/pdf"
           img_alt: "GroupDocs.Watermark PDF"
-          image: "/logo/app/groupdocs_pdf.png"
+          image: "/logo/app/groupdocs_pdf-app.png"
           product: "GroupDocs.Watermark"
           platform: "PDF"
           content: "Add high quality document watermark features to document and image formats with specially designed document watermark SDK for Java."
