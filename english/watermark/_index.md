@@ -94,7 +94,7 @@ apis:
           image: "/logo/app/groupdocs_pdf-app.png"
           product: "GroupDocs.Watermark"
           platform: "PDF"
-          content: "Add high quality document watermark features to document and image formats with specially designed document watermark SDK for Java."
+          content: "Add stamp, text or image watermark to PDF documents using free online app."
 
     
 
