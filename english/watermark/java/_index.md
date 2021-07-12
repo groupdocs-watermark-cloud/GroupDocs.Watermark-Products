@@ -42,7 +42,7 @@ submenu:
             
 
             # button loop
-            - link: "https://wiki.groupdocs.cloud/watermarkcloud/release-notes/"
+            - link: "https://wiki.groupdocs.cloud/watermark/release-notes/"
               text: "Release Notes"
 
             # button loop
@@ -51,7 +51,7 @@ submenu:
 
     right:
         link_download: "https://github.com/groupdocs-watermark-cloud/groupdocs-watermark-cloud-java"
-        link_learn: "https://docs.groupdocs.cloud/watermarkcloud/"
+        link_learn: "https://docs.groupdocs.cloud/watermark/"
         link_buy: "https://purchase.groupdocs.cloud/buy"
 
 ############################# Overview ############################
