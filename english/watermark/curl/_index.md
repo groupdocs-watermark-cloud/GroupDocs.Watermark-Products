@@ -42,7 +42,7 @@ submenu:
             
 
             # button loop
-            - link: "https://wiki.groupdocs.cloud/watermark/release-notes/"
+            - link: "https://docs.groupdocs.cloud/watermark/release-notes/"
               text: "Release Notes"
 
             # button loop
