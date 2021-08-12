@@ -60,7 +60,7 @@ overview:
     content: |
       The API is flexible, feature-rich and offers straightforward methods to manage and manipulate watermarks on several document types. The REST API supports all sorts of watermarking features like adding, searching, updating and deleting without using any external software. The Java SDK for Watermark REST API makes it possible to search watermarks within documents and edit or remove watermarks that were already added by any third-party tool. It also allows to customize watermarks by specifying the text style, font, size, color or position as per the project requirements.
 
-      GroupDocs.Watermark Cloud is a REST API that makes it a perfect choice for programmers to use it with any language or platform that is capable to make REST API calls. It easily integrates with other cloud services to provide an optimal watermarks management experience across web, mobile desktop or cloud platforms.
+      GroupDocs.Watermark Cloud is a REST API making it a perfect choice for programmers to use it with any language or platform that is capable to make REST API calls. It easily integrates with other cloud services to provide an optimal watermarks management experience across web, mobile desktop or cloud platforms.
     tabs:
       enable: true     
       
