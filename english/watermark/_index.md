@@ -10,7 +10,7 @@ head_description: "Add, edit, replace, remove, rotate text and image watermarks 
 
 ############################# Header ############################
 title: "Documents & Images Watermarking Solution"
-description: "Flexible documents watermarking solution for professionals to manipulate watermarks within documents in any language or platform.‎"
+description: "Flexible documents watermarking solution for professionals to manipulate watermarks within documents in any language or platform."
 
 ############################# APIs ###############################
 apis:
